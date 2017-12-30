@@ -1,0 +1,11 @@
+Hands-on Excel development (Advanced Excel Functions, 3rd Party API).
+VBA development experience (User Defined Functions, Automation Macros and scratch written code, both procedural and class oriented, Error Handling, Process Validation, Forms and ADO / record set handing).
+Experience with database tools (Running Queries through VBA etc).
+Good knowledge of SQL, including table design and stored procedures
+Must be able to adhere to coding standards.
+Must be able to interpret & remediate spreadsheets developed by business users to reduce process and spreadsheet risk, improve automation and add efficiency.
+Experience developing/working within Financial Industry a bonus
+Requires strong communication skills, both written and verbal
+Experience working with global project teams spread across several time zones would be beneficial.
+Strong teamwork and time management abilities a must.
+If you are looking for a change please share your updated resume at
